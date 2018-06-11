@@ -4,8 +4,18 @@
   "dependencies": {
     "got": "^8.3.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umijs/umi-plugin-devHtml/tree/master"
+  },
+  "homepage": "https://github.com/umijs/umi-plugin-devHtml/tree/master",
+  "authors": [
+    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
+  ],
+  "bugs": {
+    "url": "https://github.com/umijs/umi-plugin-devHtml/issues"
+  },
   "files": [
-    "index.js",
-    "README.md"
+    "index.js"
   ]
 }
