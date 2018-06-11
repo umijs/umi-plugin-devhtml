@@ -1,19 +1,19 @@
 {
-  "name": "umi-plugin-devHtml",
+  "name": "umi-plugin-devhtml",
   "version": "0.1.0",
   "dependencies": {
     "got": "^8.3.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/umi-plugin-devHtml/tree/master"
+    "url": "https://github.com/umijs/umi-plugin-devhtml/tree/master"
   },
-  "homepage": "https://github.com/umijs/umi-plugin-devHtml/tree/master",
+  "homepage": "https://github.com/umijs/umi-plugin-devhtml/tree/master",
   "authors": [
     "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
   ],
   "bugs": {
-    "url": "https://github.com/umijs/umi-plugin-devHtml/issues"
+    "url": "https://github.com/umijs/umi-plugin-devhtml/issues"
   },
   "files": [
     "index.js"
